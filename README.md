@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codi-ng
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... JavaScript (HTML/CSS)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in Backend development (JavaScript(Node & Express), Python (Flask), C# (ASP.NET))
+- 🌱 I’m currently learning ... JavaScript & Node.js
+- 💞️ I’m looking to collaborate on Backend web dev only (not available to collab rn)
+- 📫 How to reach me.. Discord -> j.juanitoo
 
 <!---
 codi-ng/codi-ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
