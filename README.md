@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codi-ng
+- 👋 Hi, I’m @swampPr
 - 👀 I’m interested in Backend web development (JavaScript(Node & Express) and Go)
 - 🌱 I’m currently learning ... JavaScript & Node.js
 - 💞️ I’m looking to collaborate on... (not available to collab rn)
