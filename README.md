@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codi-ng
-- 👀 I’m interested in Backend development (JavaScript(Node & Express), Python (Flask), C# (ASP.NET))
+- 👀 I’m interested in Backend web development (JavaScript(Node & Express) and Go)
 - 🌱 I’m currently learning ... JavaScript & Node.js
-- 💞️ I’m looking to collaborate on Backend web dev only (not available to collab rn)
+- 💞️ I’m looking to collaborate on... (not available to collab rn)
 - 📫 How to reach me.. Discord -> j.juanitoo
 
 <!---
